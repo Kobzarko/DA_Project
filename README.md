@@ -79,4 +79,4 @@ This project focuses on analyzing data from the `Brazilian E-Commerce Dataset` (
 
 1. Clone the repository:
    ```bash
-   git clone <repository URL>
+   git clone <https://github.com/Kobzarko/DA_Project>
